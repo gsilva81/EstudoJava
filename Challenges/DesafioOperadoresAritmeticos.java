@@ -1,4 +1,4 @@
-package oi;
+package Challenges;
 
 public class DesafioOperadoresAritmeticos {
     public static void main(String[] args) {
